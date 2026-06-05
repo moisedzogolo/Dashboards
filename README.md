@@ -1,4 +1,4 @@
-# Dashboards
+# Moise Dzogolo's Sample Dashboards
 
 This webpage contains a collection of dashboards built with **Microsoft Power BI** to illustrate my data processing and visualization skills.
 
