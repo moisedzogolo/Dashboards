@@ -28,7 +28,7 @@ Please click on the link provided for each item below to view the dashboard. Mor
 <h5> 📊 Key Takeaways: </h5>
 
 <li> Outside the area around the center of Dallas, there is a mismatch between the supply and demand of bus service (as evidenced by the maps).  </li>
-<li> In live-work areas, approximately **87%** of workers take the bus to work.  </li>
+<li> In live-work areas, approximately 87% of workers take the bus to work.  </li>
 <li> Live-work areas are rare in the Dallas-Fort Worth Metro area; new developments should be designed as live-work areas to increase transit use. </li>
 
 </ul>
