@@ -14,45 +14,27 @@ Please click on the link provided for each item below to view the dashboard. Mor
 
 <details>
 <summary><strong>📌 About this Dashboard</strong></summary>
+<br>
 
-This dashboard explores how DART's transit network serves the working population of the Dallas-Fort Worth Metro area, including:
+<p> This dashboard explores how DART's transit network serves the working population of the Dallas-Fort Worth Metro area, including: </p>
 
-- Total number of workers in the metro area, number of workers taking buses to work, and number of workers driving to work  
-- Areas of high and low bus service provision (measured as total number of stops per hour in a neighborhood)  
-- Areas of high and low use of buses during after-work peak hours (from 4 PM)  
-- Areas where a high number of people live and work in the same neighborhood ("live-work areas")  
 
-### 📊 Key Takeaways
+<ul>
+<li> Total number of workers in the metro area, number of workers taking buses to work, and number of workers driving to work.  </li>
+<li> Areas of high and low bus service provision (measured as total number of stops per hour in a neighborhood).  </li>
+<li> Areas of high and low use of buses during after-work peak hours (from 4 PM).  </li>
+<li> Areas where a high number of people live and work in the same neighborhood ("live-work areas").  </li>
 
-- Outside the area around the center of Dallas, there is a mismatch between the supply and demand of bus service (as evidenced by the maps)  
-- In live-work areas, approximately **87%** of workers take the bus to work  
-- Live-work areas are rare in the Dallas-Fort Worth Metro area; new developments should be designed as live-work areas to increase transit use  
+<h5> 📊 Key Takeaways: </h5>
+
+<li> Outside the area around the center of Dallas, there is a mismatch between the supply and demand of bus service (as evidenced by the maps).  </li>
+<li> In live-work areas, approximately **87%** of workers take the bus to work.  </li>
+<li> Live-work areas are rare in the Dallas-Fort Worth Metro area; new developments should be designed as live-work areas to increase transit use. </li>
+
+</ul>
 
 </details>
 
 ---
 
-<!-- Duplicate this block for additional dashboards -->
 
-## 2. 📊 [Your Next Dashboard Title]
-
-> Short one-line description of what the dashboard does.
-
-### 🔗 [▶️ VIEW LIVE DASHBOARD](#)
-
-<details>
-<summary><strong>📌 About this Dashboard</strong></summary>
-
-Describe what the dashboard does:
-
-- Key feature 1  
-- Key feature 2  
-- Key feature 3  
-
-### 📊 Key Takeaways
-
-- Insight 1  
-- Insight 2  
-- Insight 3  
-
-</details>
