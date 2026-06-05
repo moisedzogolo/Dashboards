@@ -15,8 +15,6 @@ Please click on the link provided for each item below to view the dashboard. Mor
 <details>
 <summary><strong>📌 About this Dashboard</strong></summary>
 
-<br>
-
 This dashboard explores how DART's transit network serves the working population of the Dallas-Fort Worth Metro area, including:
 
 - Total number of workers in the metro area, number of workers taking buses to work, and number of workers driving to work  
@@ -44,8 +42,6 @@ This dashboard explores how DART's transit network serves the working population
 
 <details>
 <summary><strong>📌 About this Dashboard</strong></summary>
-
-<br>
 
 Describe what the dashboard does:
 
