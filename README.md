@@ -1,5 +1,4 @@
-This webpage contains a collection of dashboards built with **Microsoft Power BI** to illustrate my data processing and visualization skills. 
-
+This webpage contains a collection of dashboards built with **Microsoft Power BI** to illustrate my data processing and visualization skills.  
 Please click on the link provided for each item on the list below to view the dashboard. More information about the dashboard can be accessed by clicking on the collapsible "About this Dashboard" link.
 
 ---
@@ -9,24 +8,21 @@ Please click on the link provided for each item on the list below to view the da
 > An interactive Power BI dashboard analyzing **Dallas Area Rapid Transit (DART)** bus ridership and workforce transit use patterns across the Dallas metro area.
  
 <div align="center">
-  
-### 🔗 [▶ VIEW LIVE DASHBOARD](https://moisedzogolo.github.io/Dashboards/dart-workers/)
  
-</div>
+### 🔗 [▶ VIEW LIVE DASHBOARD](https://moisedzogolo.github.io/Dashboards/dart-workers/)
 
+</div>
  
 <details>
 <summary>📌 <strong>About this Dashboard</strong></summary>
 <br>
-  
-This dashboard explores how DART's transit network serves the working population of the Dallas-Fort Worth Metro area, including:
-
+ 
+This dashboard explores how DART's transit network serves the working population of the Dallas-Fort Worth Metro area, including:  
  
 - Total number of workers in the metro area, number of workers taking buses to work, and number of workers driving to work.
 - Areas of high and low bus service provision (measured as total number of stops per hour in a neighborhood).
 - Areas of high and low use of buses during after-work peak hours (From 4 PM).
-- Areas where a high number of people live and work in the same neighborhood (called "Live-work areas" in the dashboard).
-
+- Areas where a high number of people live and work in the same neighborhood (called "Live-work areas" in the dashboard).  
 
 Some key takeaways from the dashboard are the following:
 
