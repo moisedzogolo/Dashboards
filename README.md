@@ -1,7 +1,5 @@
 # Sample Dashboards
-This webpage contains a collection of dashboards built with **Microsoft Power BI** to illustrate my data processing and visualization skills. Prior to building dashboards, data were pre-processed and analyzed with ArcGIS Pro and programming languages such as R, Python, and STATA.
-
-I have created an original dataset for each dashboard by integrating data from multiple sources, including the US Census Bureau, the EPA, the North Central Texas Council of Governments, open data portals from different cities, etc.
+This webpage contains a collection of dashboards built with **Microsoft Power BI** to illustrate my data processing and visualization skills. 
 
 Please click on the link provided for each item on the list below to view the dashboard. More information about the dashboard can be accessed by clicking on the collapsible "About this Dashboard" link.
 
@@ -16,7 +14,7 @@ Please click on the link provided for each item on the list below to view the da
 ### 🔗 [▶ VIEW LIVE DASHBOARD](https://moisedzogolo.github.io/Dashboards/dart-workers/)
  
 </div>
----
+
  
 <details>
 <summary>📌 <strong>About this Dashboard</strong></summary>
