@@ -11,6 +11,7 @@ Please click on the link provided for each item below to view the dashboard. Mor
 > An interactive Power BI dashboard analyzing **Dallas Area Rapid Transit (DART)** bus ridership and workforce transit use patterns across the Dallas metro area.
 
 ### 🔗 [▶️ VIEW LIVE DASHBOARD](https://moisedzogolo.github.io/Dashboards/dart-workers/)
+![](thumbnails/DART_workers.png)
 
 <details>
 <summary> <strong>📌 About this Dashboard </strong> </summary>
