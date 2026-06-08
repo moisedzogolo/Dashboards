@@ -2,7 +2,7 @@
 
 This webpage contains a collection of dashboards built with **Microsoft Power BI** to illustrate my data processing and visualization skills.
 
-Please click on the link provided for each item below to view the dashboard. More information about each dashboard can be accessed by expanding the section below.
+Please click on the link provided for each item below to view the dashboard. More information about each dashboard can be accessed by expanding the "About this Dashboard" section.
 
 ---
 
@@ -21,16 +21,22 @@ Please click on the link provided for each item below to view the dashboard. Mor
 
 <ul>
 <li> Total number of workers in the metro area, number of workers taking buses to work, and number of workers driving to work.  </li>
-<li> Areas of high and low bus service provision (measured as total number of stops per hour in a neighborhood).  </li>
+<li> Areas of high and low bus service provision (measured as the total number of stops per hour in a neighborhood).  </li>
 <li> Areas of high and low use of buses during after-work peak hours (from 4 PM).  </li>
-<li> Areas where a high number of people live and work in the same neighborhood ("live-work areas").  </li>
+</ul>
 
 <h5> 📊 Key Takeaways: </h5>
 
+<li> Less than 2% of workers in the study area take a bus to work.  </li>
+<li> Less than 1% of workers are employed in the neighborhood in which they live.  </li>
 <li> Outside the area around the center of Dallas, there is a mismatch between the supply and demand of bus service (as evidenced by the maps).  </li>
-<li> In live-work areas, approximately 87% of workers take the bus to work.  </li>
-<li> Live-work areas are rare in the Dallas-Fort Worth Metro area; new developments should be designed as live-work areas to increase transit use. </li>
 
+<h5> 📊 Recommendations: </h5>
+
+<ul>
+<li> Prioritize zones of high demand in service scheduling.  </li>
+<li> Identify factors driving demand for bus service for work commutes.  </li>
+<li> Work with municipal governments to promote transit-friendly mixed-use developments.  </li>
 </ul>
 
 </details>
