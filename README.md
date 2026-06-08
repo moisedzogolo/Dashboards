@@ -55,7 +55,7 @@ Please click on the link provided for each item below to view the dashboard. Mor
 
 ---
 
-## 2. 🚌 Equity of a Municipal Outreach Program
+## 2. 🌍 Equity of a Municipal Outreach Program
 
 >  An interactive Power BI dashboard analyzing the exposure of different socioeconomic groups to Dallas's **"City Hall on the Go"** program. The program seeks to bring the government to residents where they live by sending workers to neighborhoods to provide services offered at City Hall, answering questions, and raising awareness about other services that are historically underused.
 
