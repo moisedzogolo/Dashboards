@@ -29,8 +29,8 @@ Please click on the link provided for each item below to view the dashboard. Mor
 
 <ul>
   <li> <strong> North Central Council of Governments (NCTCOG) </strong>: The service area for the transit agency (DART). </li>
-  <li> <strong> American Community Survey (ACS) [US Census Bureau] </strong>: Neighborhood boundaries (Census Block Groups); Total number of workers; Number of Bus riders and number of car drivers. </li>
-  <li> <strong> Longitudinal Employer-Household Dynamics (LEHD) [US Census Bureau] </strong>: Number of workers employed within their neighborhood. </li>
+  <li> <strong> American Community Survey (ACS) </strong>: Neighborhood boundaries (Census Block Groups); Total number of workers; Number of Bus riders and number of car drivers. </li>
+  <li> <strong> Longitudinal Employer-Household Dynamics (LEHD) </strong>: Number of workers employed within their neighborhood. </li>
   <li> <strong> Smart Locations Database [EPA] </strong>: Bus service provision. </li>
 </ul>
 
