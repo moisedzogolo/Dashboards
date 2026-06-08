@@ -13,7 +13,7 @@ Please click on the link provided for each item below to view the dashboard. Mor
 ### 🔗 [▶️ VIEW LIVE DASHBOARD](https://moisedzogolo.github.io/Dashboards/dart-workers/)
 
 <details>
-<summary><strong>📌 About this Dashboard</strong></summary>
+<summary> <strong>📌 About this Dashboard </strong> </summary>
 <br>
 
 <p> This dashboard explores how DART's transit network serves the working population of the Dallas-Fort Worth Metro area, including: </p>
@@ -25,11 +25,22 @@ Please click on the link provided for each item below to view the dashboard. Mor
 <li> Areas of high and low use of buses during after-work peak hours (from 4 PM).  </li>
 </ul>
 
+<h5> Data Sources: </h5>
+
+<ul>
+  <li> <strong> North Central Council of Governments (NCTCOG) </strong>: The service area for the transit agency (DART). </li>
+  <li> <strong> American Community Survey (ACS) [US Census Bureau] </strong>: Neighborhood boundaries (Census Block Groups); Total number of workers; Number of Bus riders and number of car drivers. </li>
+  <li> <strong> Longitudinal Employer-Household Dynamics (LEHD) [US Census Bureau] </strong>: Number of workers employed within their neighborhood. </li>
+  <li> <strong> Smart Locations Database [EPA] </strong>: Bus service provision. </li>
+</ul>
+
 <h5> 📊 Key Takeaways: </h5>
 
+<ul>
 <li> Less than 2% of workers in the study area take a bus to work.  </li>
 <li> Less than 1% of workers are employed in the neighborhood in which they live.  </li>
 <li> Outside the area around the center of Dallas, there is a mismatch between the supply and demand of bus service (as evidenced by the maps).  </li>
+</ul>
 
 <h5> 📊 Recommendations: </h5>
 
