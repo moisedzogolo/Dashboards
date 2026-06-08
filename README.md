@@ -55,4 +55,61 @@ Please click on the link provided for each item below to view the dashboard. Mor
 
 ---
 
+## 2. 🚌 Equity of a Municipal Outreach Program
+
+>  An interactive Power BI dashboard analyzing the exposure of different socioeconomic groups to Dallas's **"City Hall on the Go"** program. The program seeks to bring the government to residents where they live by sending workers to neighborhoods to provide services offered at City Hall, answering questions, and raising awareness about other services that are historically underused.
+
+### 🔗 [▶️ VIEW LIVE DASHBOARD](https://moisedzogolo.github.io/Dashboards/outreach_equity/)
+![](thumbnails/City Hall on The Go.png)
+
+<details>
+<summary> <strong>📌 About this Dashboard </strong> </summary>
+<br>
+
+<p> This dashboard examines outreach events held during the 2018-2023 period, and it tracks the following indicators: </p>
+
+
+<ul>
+<li> Median Household Income.  </li>
+<li> Median Age.  </li>
+<li> Educational attainment (measured as the share of people holding a bachelor's degree or higher).  </li>
+<li> Zoning districts of visited areas.  </li>
+</ul>
+
+For each indicator, the dashboard compares the median value for the visited areas to that of the city of Dallas at large.
+
+<h5> Data Sources: </h5>
+
+<ul>
+  <li> <strong> American Community Survey </strong>: It was the source of all the demographic data. </li>
+  <li> <strong> Dallas Central Appraisal District </strong>: It provided the zoning data included in the dashboard. </li>
+</ul>
+
+<h5> 📊 Key Takeaways: </h5>
+
+<ul>
+<li> Single-Family Residential areas are the most visited districts, accounting for 46% of all visits during the study period.  </li>
+<li> Planned development areas are the second most visited district with 35% of the visits.  </li>
+<li> The remainder of zoning districts have negligible shares of visits when taken individually.  </li>
+<li> In planned development areas, the primary use of the visited areas is commercial.  </li>
+<li> Median household income is slightly higher in visited areas, and so is age.  </li>
+<li> Educational attainment is slightly lower in visited areas in the entire study period.  </li>
+<li> Patterns have changed over the years for the indicators. Feel free to use the year filter to track the progression of each indicator.  </li>
+<li> The most noticeable change is educational attainment, which has dropped for visited areas in 2022 and 2023.  </li>
+<li> No data is available for 2021 because the outreach program was paused due to the pandemic.  </li>
+<li> Dallas-wide indicators do not change over the years because they represent a 5-year average.  </li>
+</ul> 
+
+<h5> 📊 Recommendations: </h5>
+
+<ul>
+<li> Low-income areas should be visited more often, as they might have more pressing needs than wealthier areas.  </li>
+<li> More outreach effort should also be conducted in multi-family areas. It might increase their civic engagement and bring more diverse views in the policy-making process.  </li>
+<li> For future analyses, more indicators should be included for an even better picture of the community.  </li>
+</ul>
+
+</details>
+
+---
+
 
