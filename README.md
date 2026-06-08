@@ -60,7 +60,7 @@ Please click on the link provided for each item below to view the dashboard. Mor
 >  An interactive Power BI dashboard analyzing the exposure of different socioeconomic groups to Dallas's **"City Hall on the Go"** program. The program seeks to bring the government to residents where they live by sending workers to neighborhoods to provide services offered at City Hall, answering questions, and raising awareness about other services that are historically underused.
 
 ### 🔗 [▶️ VIEW LIVE DASHBOARD](https://moisedzogolo.github.io/Dashboards/outreach_equity/)
-![](thumbnails/City Hall on The Go.png)
+![](thumbnails/City_Hall_on_The_Go.png)
 
 <details>
 <summary> <strong>📌 About this Dashboard </strong> </summary>
